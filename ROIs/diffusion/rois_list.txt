@@ -1,0 +1,4 @@
+1	Left Amygdala
+2	Left mPFC
+3	Right mPFC
+4	Right Amygdala
